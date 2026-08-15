@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ultimate">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ultimate</output-path>
+    <root id="archive" name="Ultimate.jar" />
+  </artifact>
+</component>

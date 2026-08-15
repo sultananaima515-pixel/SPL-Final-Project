@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SPL Final Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SPL_Final_Project_jar</output-path>
+    <root id="archive" name="SPL Final Project.jar">
+      <element id="module-output" name="SPL Final Project" />
+    </root>
+  </artifact>
+</component>
